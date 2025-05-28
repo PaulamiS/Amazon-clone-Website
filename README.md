@@ -35,7 +35,7 @@ CSS – For styling and responsiveness
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/PaulamiS/Amazon-clone-Website.git
 
 
 2. Open the project folder:
